@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">🖥️ Administrador de Sistemas N2 | Especialista en Infraestructura IT y Automatización</h3>
-<h4 align="center">📍 España |  Abierto a Oportunidades | 🎯 99.9% de Disponibilidad</h4>
+<h4 align="center">📍 España | 🔓 Abierto a Oportunidades | 🎯 99.9% de Disponibilidad</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harvy-cassidy-8a69a296/">
@@ -44,6 +44,7 @@
 | 📊 Monitorización (Grafana/PBI) | ![80%](https://img.shields.io/badge/Progreso-80%25-25D366?style=flat) |
 | 🗄️ Administración SQL | ![75%](https://img.shields.io/badge/Progreso-75%25-25D366?style=flat) |
 | ☁️ Cloud Híbrido | ![60%](https://img.shields.io/badge/Progreso-60%25-25D366?style=flat) |
+
 ---
 
 ## 🛠️ Competencias Técnicas
@@ -81,6 +82,7 @@
 ### Monitorización y Reporting
 <p align="left">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black"/>
 </p>
 
@@ -124,28 +126,28 @@
 
 ## 🚀 Proyectos Destacados
 
-### 🔒 [Migración de Infraestructura de Seguridad](https://github.com/TU_USUARIO/firewall-migration)
+### 🔒 [Migración de Infraestructura de Seguridad](https://github.com/hgcassidy/firewall-migration)
 Migración completa de firewalls corporativos en entorno productivo con minimización de impacto operativo.
 
 | Tecnologías | Resultado |
 |-------------|-----------|
 | Firewalls, VLANs, Security Policies | Mejora significativa en seguridad perimetral |
 
-### 🤖 [Automatización de Infraestructura IT](https://github.com/TU_USUARIO/infra-automation)
+### 🤖 [Automatización de Infraestructura IT](https://github.com/hgcassidy/infra-automation)
 Colección de scripts PowerShell/Bash para gestión de usuarios, backups automatizados y monitorización proactiva.
 
 | Tecnologías | Resultado |
 |-------------|-----------|
 | PowerShell, Bash, Git | -40% tareas manuales operativas |
 
-### 📊 [Dashboard de Monitorización de Sistemas](https://github.com/TU_USUARIO/monitoring-dashboard)
+### 📊 [Dashboard de Monitorización de Sistemas](https://github.com/hgcassidy/monitoring-dashboard)
 Implementación de dashboards en tiempo real con Grafana para detección y respuesta ante incidencias.
 
 | Tecnologías | Resultado |
 |-------------|-----------|
 | Grafana, Zabbix, Power BI | -60% tiempos de respuesta |
 
-### 🛡️ [Segmentación y Hardening de Red](https://github.com/TU_USUARIO/network-security)
+### 🛡️ [Segmentación y Hardening de Red](https://github.com/hgcassidy/network-security)
 Documentación y scripts para segmentación de red mediante VLANs y reducción de superficie de ataque.
 
 | Tecnologías | Resultado |
@@ -157,13 +159,13 @@ Documentación y scripts para segmentación de red mediante VLANs y reducción d
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hgcassidy&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgcassidy&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&column=4&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=hgcassidy&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hgcassidy&theme=radical&column=4&hide_border=true" width="48%"/>
 </div>
 
 ---
@@ -173,9 +175,9 @@ Documentación y scripts para segmentación de red mediante VLANs y reducción d
 | Certificación | Emisor | Fecha | Modalidad | Horas |
 |---------------|--------|-------|-----------|-------|
 | 🎓 Técnico Superior ASIR | Ministerio de Educación | 2022 | Presencial | - |
-| 📋 PM2 Essentials | PM² GROUP / TecnoFor | Ene 2023 | Distance Learning | 20h |
-| 🤖 Inteligencia Artificial Generativa | TecnoFor | Dic 2024 | Distance Learning | 20h |
-| 🚀 Apollo 13 (Gestión de Crisis) | TecnoFor / PMI | Abr 2025 | Presencial | 8h |
+| 📋 PM2 Essentials | PM² GROUP / TecnoFor | 16-19 Ene 2023 | Distance Learning | 20h |
+| 🤖 Inteligencia Artificial Generativa | TecnoFor | 09-19 Dic 2024 | Distance Learning | 20h |
+| 🚀 Apollo 13 (Gestión de Crisis) | TecnoFor / PMI | 24 Abr 2025 | Presencial | 8h |
 | 🏆 Microsoft Certified Professional (MCP) | Microsoft | 2023 | - | - |
 
 ---
@@ -184,7 +186,6 @@ Documentación y scripts para segmentación de red mediante VLANs y reducción d
 
 | Idioma | Nivel |
 |--------|-------|
-| 🇪 Español | Nativo |
 | 🇬🇧 Inglés | B2 (Intermedio Alto) |
 
 ---
@@ -210,7 +211,7 @@ Documentación y scripts para segmentación de red mediante VLANs y reducción d
 | Infraestructura IT | VMware, Hyper-V, Servidores On-Premise |
 | Seguridad de Red | Firewalls, VLANs, VPNs, Hardening |
 | Automatización | PowerShell, Bash, Power Automate |
-| Monitorización | Grafana, Power BI |
+| Monitorización | Grafana, Zabbix, Power BI |
 | Gestión de Proyectos | PM2, Kanban, SLAs, KPIs |
 
 ---
