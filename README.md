@@ -1,223 +1,237 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,1:00B4D8&height=220&section=header&text=Harvy%20Cassidy&fontSize=70&animation=fadeIn&fontColor=FFFFFF" />
+
+# Harvy Cassidy
+
+### Especialista en Administración de Sistemas en Red  
+Infraestructura IT | Seguridad | Automatización  
+
+📍 España | 🔓 Abierto a oportunidades  
+
+---
+
 </div>
 
-<h3 align="center">🖥️ Administrador de Sistemas N2 | Especialista en Infraestructura IT y Automatización</h3>
-<h4 align="center">📍 España | 🔓 Abierto a Oportunidades | 🎯 99.9% de Disponibilidad</h4>
+## 🧠 Propuesta de Valor
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harvy-cassidy-8a69a296/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hgcassidy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="tel:+34606927948">
-    <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+Administrador de Sistemas Informáticos en Red especializado en infraestructuras on-premise e híbridas (Microsoft/Linux) y virtualización (VMware/Hyper-V). Experto en la optimización operativa mediante la automatización de procesos con PowerShell, Bash y Power Automate.
+
+Gracias a mi formación en gestión de proyectos (PM2) y de servicios (ITIL), aporto una visión integral en la planificación, ejecución y seguridad de entornos TI. Poseo un perfil autodidacta y resolutivo, orientado a la mejora continua y a la integración de la IA para maximizar la eficiencia tecnológica.
+
+Mi enfoque se basa en cuatro pilares:
+
+- ⚙️ **Automatización** → reducir carga operativa y errores humanos  
+- 🔐 **Seguridad** → proteger infraestructura y datos críticos  
+- 📊 **Optimización** → mejorar rendimiento y disponibilidad  
+- 📋 **Gestión de proyectos IT** → planificación, ejecución y seguimiento mediante KPIs, SLAs y metodologías ágiles  
 
 ---
 
-## 🧠 Perfil Profesional
+## 🚀 Impacto Real en Negocio
 
-**Administrador de Sistemas N2** con +3 años gestionando infraestructuras IT críticas en entornos empresariales 24/7. Especializado en **automatización de infraestructura**, **seguridad perimetral** y **optimización operativa** mediante scripting (PowerShell, Bash).
-
-| ✅ Logro | 📈 Impacto |
-|----------|------------|
-| Disponibilidad de sistemas críticos | 99.9%+ |
-| Reducción de tareas manuales | +40% mediante automatización |
-| Mejora en tiempos de respuesta | -60% en incidencias N2 |
-| Gestión de proyectos IT | Kanban, Gantt, SLAs, KPIs |
+- 📈 Disponibilidad de sistemas críticos superior al **99.9%**
+- ⚙️ Reducción de tareas manuales en más de **70%**
+- ⚡ Disminución del tiempo de respuesta a incidencias en **60%**
+- 🔍 Reducción del MTTD en un **40%** mediante monitorización avanzada
+- 🤖 Automatización de procesos clave liberando **20% de capacidad operativa**
+- 👥 Liderazgo de equipo técnico de **7 especialistas**
 
 ---
 
-## 🌐 Competencias Clave
+## 🧩 Especialización Técnica
 
-| Competencia | Progreso |
-|-------------|----------|
-| 🔧 Administración de Sistemas | ![100%](https://img.shields.io/badge/Progreso-100%25-25D366?style=flat) |
-| 🌐 Redes & Networking | ![95%](https://img.shields.io/badge/Progreso-95%25-25D366?style=flat) |
-| 🔐 Seguridad Perimetral | ![90%](https://img.shields.io/badge/Progreso-90%25-25D366?style=flat) |
-| 📋 Gestión de Proyectos | ![100%](https://img.shields.io/badge/Progreso-100%25-25D366?style=flat) |
-| ⚙️ PowerShell / Bash Scripting | ![80%](https://img.shields.io/badge/Progreso-80%25-25D366?style=flat) |
-| 📊 Monitorización (Grafana/PBI) | ![80%](https://img.shields.io/badge/Progreso-80%25-25D366?style=flat) |
-| 🗄️ Administración SQL | ![75%](https://img.shields.io/badge/Progreso-75%25-25D366?style=flat) |
-| ☁️ Cloud Híbrido | ![60%](https://img.shields.io/badge/Progreso-60%25-25D366?style=flat) |
+### 💻 Sistemas Operativos
+- Windows Server
+- Linux (Ubuntu)
 
 ---
 
-## 🛠️ Competencias Técnicas
-
-### Sistemas Operativos
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</p>
-
-### Redes y Seguridad
-<p align="left">
-  <img src="https://img.shields.io/badge/VLANs-0078D4?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPNs-0078D4?style=for-the-badge&logo=wireguard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firewalls-CC0000?style=for-the-badge&logo=palo-alto-networks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seguridad%20Perimetral-000000?style=for-the-badge&logo=fortinet&logoColor=white"/>
-</p>
-
-### Infraestructura y Virtualización
-<p align="left">
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Servidores%20On--Premise-333333?style=for-the-badge&logo=server&logoColor=white"/>
-</p>
-
-### Automatización y Scripting
-<p align="left">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
-
-### Monitorización y Reporting
-<p align="left">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black"/>
-</p>
-
-### Bases de Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-</p>
-
-### Herramientas de Desarrollo
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-</p>
+### 🌐 Redes y Seguridad
+- VLANs, VPNs, DNS, DHCP, NAT, SSH
+- Firewalls, Routers, Switches
+- Seguridad perimetral
+- Hardening
 
 ---
 
-## 📋 Metodologías Ágiles y Artefactos PM2
+### 🖥️ Infraestructura y Servicios Microsoft
 
-| Categoría | Herramientas y Artefactos |
-|-----------|--------------------------|
-| **Metodología PM2®** | Project Triangle, Mindset PM2, Fases de Proyecto |
-| **Artefactos PM2** | Project Brief, Project Handbook, Risk Log, Issue Log |
-| **Metodologías Ágiles** | Kanban, Scrum, Agile Principles |
-| **Herramientas** | Microsoft Teams, Trello, Microsoft Project |
-| **Planificación** | Diagramas de Gantt, WBS, Cronogramas |
-| **Seguimiento** | SLAs, KPIs, Dashboards, Reportes de Estado |
-| **Gestión de Riesgos** | Risk Assessment, Mitigation Plans, Crisis Management |
+**Directory Services & Identidad**
+- Active Directory
+- Active Directory Federation Services (ADFS)
+- Gestión de GPOs (Group Policy Objects)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PM2®-00529C?style=for-the-badge&logo=pm2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kanban-0078D4?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=agile&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS%20Project-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
+**Virtualización y Plataformas**
+- VMware
+- Hyper-V
+- Entornos on-premise e híbridos
 
----
+**Alta Disponibilidad y Continuidad**
+- Failover Clustering
 
-## 🚀 Proyectos Destacados
+**Publicación de Aplicaciones**
+- RemoteApp
+- Web Server (IIS)
+- Hosting de aplicaciones web y servicios FTP
 
-### 🔒 [Migración de Infraestructura de Seguridad](https://github.com/hgcassidy/firewall-migration)
-Migración completa de firewalls corporativos en entorno productivo con minimización de impacto operativo.
-
-| Tecnologías | Resultado |
-|-------------|-----------|
-| Firewalls, VLANs, Security Policies | Mejora significativa en seguridad perimetral |
-
-### 🤖 [Automatización de Infraestructura IT](https://github.com/hgcassidy/infra-automation)
-Colección de scripts PowerShell/Bash para gestión de usuarios, backups automatizados y monitorización proactiva.
-
-| Tecnologías | Resultado |
-|-------------|-----------|
-| PowerShell, Bash, Git | -40% tareas manuales operativas |
-
-### 📊 [Dashboard de Monitorización de Sistemas](https://github.com/hgcassidy/monitoring-dashboard)
-Implementación de dashboards en tiempo real con Grafana para detección y respuesta ante incidencias.
-
-| Tecnologías | Resultado |
-|-------------|-----------|
-| Grafana, Zabbix, Power BI | -60% tiempos de respuesta |
-
-### 🛡️ [Segmentación y Hardening de Red](https://github.com/hgcassidy/network-security)
-Documentación y scripts para segmentación de red mediante VLANs y reducción de superficie de ataque.
-
-| Tecnologías | Resultado |
-|-------------|-----------|
-| VLANs, Switching, Security Hardening | Infraestructura más segura |
+**Gestión y Actualización**
+- Windows Server Update Services (WSUS)
 
 ---
 
-## 📊 Estadísticas de GitHub
+### ⚙️ Automatización
+- PowerShell
+- Bash
+- Power Automate
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hgcassidy&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgcassidy&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=hgcassidy&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=hgcassidy&theme=radical&column=4&hide_border=true" width="48%"/>
-</div>
+### 📊 Monitorización
+- Grafana
+- Check_MK
+- Power BI
+
+---
+
+### 🗄️ Bases de Datos
+- SQL Server
+- MySQL
+- MariaDB
+
+---
+
+### 🧠 Gestión de Proyectos, Crisis y Calidad 
+- Metodología PM2
+- Simulación de crisis (Apollo 13)
+- ITIL Foundation
+- Gestión de SLAs
+- Planificación estratégica TI
+
+---
+
+### 🛠️ Gestión de Servicios 
+- ServiceNow
+- GLPI
+- Microsoft Dynamics
+
+---
+
+### 🗄️ Almacenamiento y SAN
+- Dell EMC (SAN)
+- TrueNAS
+
+---
+
+### 🧾 SAP Basis | [Intermedio]
+- Gestión de usuarios y roles
+- Transportes
+- Certificados
+
+---
+
+## 🏗️ Proyectos Estratégicos
+
+### 🔒 Migración y Modernización de Infraestructura Crítica
+
+**Problema:** Infraestructura legacy con riesgos de seguridad, configuraciones no estandarizadas y alta criticidad operativa.  
+
+**Acción:**
+- Lideré la virtualización del ERP SAP en entorno productivo.  
+- Migración de sistemas on-premise de alto riesgo a infraestructura moderna.  
+- Migración de firewalls FortiGate sin interrupciones.  
+- Rediseño de políticas de seguridad y segmentación de red.  
+
+**Resultado:**
+- Continuidad operativa sin impacto en negocio.  
+- Reducción de superficie de ataque.  
+- Mejora significativa en seguridad perimetral.  
+- Infraestructura más resiliente y escalable.  
+
+---
+
+### 🤖 Automatización y Optimización Operativa
+
+**Problema:** Alta carga de tareas manuales, procesos repetitivos y baja eficiencia operativa.  
+
+**Acción:**
+- Desarrollo de automatizaciones con PowerShell y Bash.  
+- Optimización de procesos administrativos y operativos.  
+- Implementación de soluciones basadas en IA para toma de decisiones, planificación de recursos, auditorías y resolución predictiva de incidencias.  
+
+**Resultado:**
+- Reducción de tareas manuales en más del **70%**.  
+- Liberación del **20% de la capacidad del equipo**.  
+- Mejora significativa en eficiencia operativa.  
+
+---
+
+### 📊 Monitorización Avanzada y Gestión de Incidencias
+
+**Problema:** Detección tardía de incidencias y tiempos de respuesta elevados.  
+
+**Acción:**
+- Implementación de dashboards en Grafana y herramientas de monitorización avanzada.  
+- Configuración de alertas proactivas.  
+- Seguimiento mediante KPIs y SLAs.  
+- Coordinación de equipo técnico (7 especialistas).  
+
+**Resultado:**
+- Reducción del MTTD en un **40%**.  
+- Disminución del tiempo de respuesta en un **60%**.  
+- SLA mantenido en **99.9% de uptime**.  
+- Mayor estabilidad y resiliencia del sistema.  
+
+---
+
+## 🏗️ Metodología y Gobernanza TI
+
+Mi enfoque profesional integra la agilidad operativa con el rigor de la gestión de proyectos para garantizar infraestructuras resilientes y alineadas con los objetivos de negocio:
+
+* **Marcos de Trabajo & Agilidad**: Aplicación de **metodologías ágiles (Scrum/Kanban)** para la gestión eficiente del backlog técnico y **PM2 Essentials** para la gobernanza estructurada de proyectos complejos.
+* **Cultura Data-Driven**: Especialista en la elaboración de cuadros de mando en **Grafana y Power BI** para el seguimiento de **KPIs críticos**, control de **SLAs** y reporte ejecutivo de avances, desviaciones y bloqueos.
+* **Gestión del Conocimiento**: Liderazgo en la estandarización de activos mediante la creación y mejora de **políticas, procedimientos y documentación técnica** del departamento IT.
+* **Comunicación Estratégica**: Experiencia transformando datos técnicos en *insights* accionables para la toma de decisiones y la optimización de recursos.
+* **Mejora Continua (Kaizen)**: Enfoque proactivo orientado a resultados numéricos, detectando cuellos de botella y asegurando la culminación exitosa de cada fase del proyecto.
 
 ---
 
 ## 🎓 Formación y Certificaciones
 
-| Certificación | Emisor | Fecha | Modalidad | Horas |
-|---------------|--------|-------|-----------|-------|
-| 🎓 Técnico Superior ASIR | Ministerio de Educación | 2022 | Presencial | - |
-| 📋 PM2 Essentials | PM² GROUP / TecnoFor | 16-19 Ene 2023 | Distance Learning | 20h |
-| 🤖 Inteligencia Artificial Generativa | TecnoFor | 09-19 Dic 2024 | Distance Learning | 20h |
-| 🚀 Apollo 13 (Gestión de Crisis) | TecnoFor / PMI | 24 Abr 2025 | Presencial | 8h |
-| 🏆 Microsoft Certified Professional (MCP) | Microsoft | 2023 | - | - |
+- Técnico Superior en Administración de Sistemas en Red (ASIR)
+- PM2 Essentials - TecnoFor
+- Inteligencia Artificial Generativa - TecnoFor
+- Apollo 13 (Gestión de crisis) - TecnoFor
+- Microsoft Certified Professional (MCP ID: 3357452)
 
 ---
 
-## 🌐 Idiomas
+## 🌍 Idiomas
 
-| Idioma | Nivel |
-|--------|-------|
-| 🇬🇧 Inglés | B2 (Intermedio Alto) |
+- Inglés — B2 (Intermedio alto)
 
 ---
 
 ## 📬 Contacto
 
-| Canal | Enlace |
-|-------|--------|
-| 💼 LinkedIn | [linkedin.com/in/harvy-cassidy-8a69a296](https://www.linkedin.com/in/harvy-cassidy-8a69a296/) |
-| 📧 Email | [hgcassidy@gmail.com](mailto:hgcassidy@gmail.com) |
-| 📱 Teléfono | +34 606 92 79 48 |
-| 📍 Ubicación | España |
+- 💼 LinkedIn: https://www.linkedin.com/in/harvy-cassidy-8a69a296/
+- 📧 Email: hgcassidy@gmail.com
+- 📍 Ubicación: España
 
 ---
 
 ## ⚡ Disponibilidad
 
-🟢 **Disponible para oportunidades en:**
+🟢 Abierto a oportunidades en:
 
-| Área | Tecnologías |
-|------|-------------|
-| Administración de Sistemas | Windows Server, Linux, Active Directory |
-| Infraestructura IT | VMware, Hyper-V, Servidores On-Premise |
-| Seguridad de Red | Firewalls, VLANs, VPNs, Hardening |
-| Automatización | PowerShell, Bash, Power Automate |
-| Monitorización | Grafana, Zabbix, Power BI |
-| Gestión de Proyectos | PM2, Kanban, SLAs, KPIs |
+- Administración de Sistemas  
+- Infraestructura IT  
+- Seguridad de Redes  
+- Automatización  
+- Monitorización  
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,1:00B4D8&height=100&section=footer" />
-  <p><i>⏱️ Última actualización: Marzo 2026</i></p>
-  <p><i>👁️ Perfil optimizado para ATS y reclutadores tech</i></p>
+
+### 💡 "Transformo infraestructuras IT en sistemas eficientes, seguros y automatizados"
+
 </div>
